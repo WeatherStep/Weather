@@ -181,3 +181,6 @@ function get__Random_Wind(number){
     let randomNumber = number - random
     return randomNumber
 }
+
+const test = 23
+console.log(test)
